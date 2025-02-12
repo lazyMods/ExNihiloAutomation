@@ -1,0 +1,62 @@
+{
+  "type": "exnihilosequentia:crushing",
+  "input": "exnihiloauto:atomic_compressed_sand",
+  "results": [
+    {
+      "chance": 1.0,
+      "item": {
+        "count": 99,
+        "id": "minecraft:sand"
+      }
+    },
+    {
+      "chance": 1.0,
+      "item": {
+        "count": 99,
+        "id": "minecraft:sand"
+      }
+    },
+    {
+      "chance": 1.0,
+      "item": {
+        "count": 99,
+        "id": "minecraft:sand"
+      }
+    },
+    {
+      "chance": 1.0,
+      "item": {
+        "count": 99,
+        "id": "minecraft:sand"
+      }
+    },
+    {
+      "chance": 1.0,
+      "item": {
+        "count": 99,
+        "id": "minecraft:sand"
+      }
+    },
+    {
+      "chance": 1.0,
+      "item": {
+        "count": 99,
+        "id": "minecraft:sand"
+      }
+    },
+    {
+      "chance": 1.0,
+      "item": {
+        "count": 99,
+        "id": "minecraft:sand"
+      }
+    },
+    {
+      "chance": 1.0,
+      "item": {
+        "count": 36,
+        "id": "minecraft:sand"
+      }
+    }
+  ]
+}

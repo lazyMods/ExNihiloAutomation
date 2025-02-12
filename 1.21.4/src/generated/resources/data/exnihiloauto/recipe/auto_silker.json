@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": "exnihilosequentia:diamond_crook",
+    "i": "#c:ingots/iron",
+    "r": "#c:dusts/redstone"
+  },
+  "pattern": [
+    "iri",
+    "rcr",
+    "iri"
+  ],
+  "result": {
+    "count": 1,
+    "id": "exnihiloauto:auto_silker"
+  }
+}

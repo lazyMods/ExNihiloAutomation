@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "exnihiloauto:atomic_compressed_sand"
+  ],
+  "result": {
+    "count": 9,
+    "id": "exnihiloauto:highly_compressed_sand"
+  }
+}

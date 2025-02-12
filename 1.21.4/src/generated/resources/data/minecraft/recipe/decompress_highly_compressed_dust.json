@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "exnihiloauto:highly_compressed_dust"
+  ],
+  "result": {
+    "count": 9,
+    "id": "exnihiloauto:compressed_dust"
+  }
+}
