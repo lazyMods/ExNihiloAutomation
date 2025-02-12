@@ -1,0 +1,13 @@
+{
+  "type": "exnihilosequentia:crushing",
+  "input": "exnihiloauto:compressed_sand",
+  "results": [
+    {
+      "chance": 1.0,
+      "item": {
+        "count": 9,
+        "id": "minecraft:sand"
+      }
+    }
+  ]
+}
